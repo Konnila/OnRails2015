@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77e1c495-cd95-4014-a7bc-e7aeca8cc330" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/beer.rb" afterPath="$PROJECT_DIR$/app/models/beer.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/beers/show.html.erb" afterPath="$PROJECT_DIR$/app/views/beers/show.html.erb" />
     </list>
     <ignored path="ratebeer.iws" />
@@ -35,19 +34,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="beer.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="beer.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/beer.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="51" selection-start="147" selection-end="147" vertical-scroll-proportion="0.12077295" vertical-offset="0" max-vertical-offset="621">
+            <state line="5" column="51" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="show.html.erb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="show.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/beers/show.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="10" selection-start="293" selection-end="293" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="465">
+            <state line="20" column="58" selection-start="352" selection-end="352" vertical-scroll-proportion="0.51369864" vertical-offset="0" max-vertical-offset="584">
               <folding />
             </state>
           </provider>
@@ -670,16 +669,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/beers/show.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/models/beer.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="10" selection-start="293" selection-end="293" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="465">
+        <state line="5" column="51" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/beer.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/beers/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="51" selection-start="147" selection-end="147" vertical-scroll-proportion="0.12077295" vertical-offset="0" max-vertical-offset="621">
+        <state line="20" column="58" selection-start="352" selection-end="352" vertical-scroll-proportion="0.51369864" vertical-offset="0" max-vertical-offset="584">
           <folding />
         </state>
       </provider>
